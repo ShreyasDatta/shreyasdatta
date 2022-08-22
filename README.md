@@ -19,21 +19,22 @@ If you find that infuriating and would want to send some choice words my way, Le
 </div>
 
 <br> 
-<div align="right">
-  <a href="https://open.spotify.com/user/314bzhg4drrvjnvmi3qemvfdvk6y">
-    <img align='right' src="https://spotify-github-profile.vercel.app/api/view?uid=314bzhg4drrvjnvmi3qemvfdvk6y&cover_image=true&theme=default&bar_color=23a923&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" width="30%" height="15%"/>
-  </a>
+<div>
+  <div align="right">
+    <a href="https://open.spotify.com/user/314bzhg4drrvjnvmi3qemvfdvk6y">
+      <img align='right' src="https://spotify-github-profile.vercel.app/api/view?uid=314bzhg4drrvjnvmi3qemvfdvk6y&cover_image=true&theme=default&bar_color=23a923&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" width="30%" height="15%"/>
+    </a>
+  </div>
+
+  <ul>
+    <li>🌱 <span style="font-family: 'Roboto Mono', monospace; font-size: 15px">currently focusing</span> on <b>Memory Management</b> and sharpening my grip on <code>C</code> in <a href="https://leetcode.com/ShreyasDatta/">Leetcode</a> everyday.</li>
+    <li>💬 <span style="font-family: 'Roboto Mono', monospace; font-size: 15px">about me,</span> I like to watch Sakuga AMVs, but can't complete shows.</li>
+    <li>⚡ <span style="font-family: 'Roboto Mono', monospace; font-size: 15px">fun fact</span> The answer to life, the universe, and everything is <a href="https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802">42</a>.</li>
+    <li>📖 <span style="font-family: 'Roboto Mono', monospace; font-size: 15px">key subject interests</span> in 🤖Machine Learning/AI endeavors and 🗣️NLP research work.</li>
+  </ul>
+
+  <blockquote style="font-family: 'Roboto Mono', monospace; font-size: 12px">I truly believe in the spirit of Open-Source❤️, and as such, resolve to double my PR and contribution goals this year.</blockquote>
 </div>
-
-<ul>
-  <li>🌱 <span style="font-family: 'Roboto Mono', monospace; font-size: 15px">currently focusing</span> on <b>Memory Management</b> and sharpening my grip on <code>C</code> in <a href="https://leetcode.com/ShreyasDatta/">Leetcode</a> everyday.</li>
-  <li>💬 <span style="font-family: 'Roboto Mono', monospace; font-size: 15px">about me,</span> I like to watch Sakuga AMVs, but can't complete shows.</li>
-  <li>⚡ <span style="font-family: 'Roboto Mono', monospace; font-size: 15px">fun fact</span> The answer to life, the universe, and everything is <a href="https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802">42</a>.</li>
-  <li>📖 <span style="font-family: 'Roboto Mono', monospace; font-size: 15px">key subject interests</span> in 🤖Machine Learning/AI endeavors and 🗣️NLP research work.</li>
-</ul>
-
-<blockquote style="font-family: 'Roboto Mono', monospace; font-size: 12px">I truly believe in the spirit of Open-Source❤️, and as such, resolve to double my PR and contribution goals this year.</blockquote>
-
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Technical Proficiency
 <p style="display: inline-block;" align="center">
   <kbd>
