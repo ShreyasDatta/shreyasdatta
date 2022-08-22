@@ -18,6 +18,14 @@ If you find that infuriating and would want to send some choice words my way, Le
   <a href="https://www.linkedin.com/in/shreyas-datta-32bb041a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" target="_blank"></a> 
 </div>
 
+<br> 
+<img align='right' src="https://imgur.com/a/odU8plu" width="250" height="210">
+
+- 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
+- 💬 I’m looking forward to contribute to **Open Source Projects**.
+- ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
+-  Show some ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
+
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Technical Proficiency
 <p style="display: inline-block;" align="center">
   <kbd>
