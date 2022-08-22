@@ -21,7 +21,7 @@ If you find that infuriating and would want to send some choice words my way, Le
 <br> 
 <div align="right">
   <a href="https://open.spotify.com/user/314bzhg4drrvjnvmi3qemvfdvk6y">
-    <img align='right' src="https://spotify-github-profile.vercel.app/api/view?uid=314bzhg4drrvjnvmi3qemvfdvk6y&cover_image=true&theme=default&bar_color=23a923&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" width="20%" height="20%"/>
+    <img align='right' src="https://spotify-github-profile.vercel.app/api/view?uid=314bzhg4drrvjnvmi3qemvfdvk6y&cover_image=true&theme=default&bar_color=23a923&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" width="30%" height="15%"/>
   </a>
 </div>
 
