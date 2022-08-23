@@ -84,6 +84,18 @@ If you find that infuriating and would want to send some choice words my way, Le
   </kbd>
 </p>
 
+<details> 
+  <summary><b>GitHub Profile Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="2%"></b></summary>
+  <br/>
+  <p>
+    <a href="https://github.com/shreyasdatta/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreyasdatta&show_icons=true&count_private=true&theme=algolia" height="10%"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyasdatta&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+  <br/>
+  </p>
+</details>
+
 <!--
 **ShreyasDatta/shreyasdatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
