@@ -5,6 +5,7 @@
 samp { 
   font-family: 'Roboto Mono';
   font-weight: 500;
+  font-size: 15px;
 }
 </style>
 <h1>
@@ -33,12 +34,12 @@ If you find that infuriating and would want to send some choice words my way, Le
 
   <ul>
     <li>🌱 <samp>currently focusing</samp> on <b>Memory Management</b> and sharpening my grip on <code>C</code> in <a href="https://leetcode.com/ShreyasDatta/">Leetcode</a> everyday.</li>
-    <li>💬 <samp style="font-family: 'Roboto Mono', monospace; font-size: 15px">about me,</samp> I like to watch Sakuga AMVs, but can't complete shows.</li>
-    <li>⚡ <samp style="font-family: 'Roboto Mono', monospace; font-size: 15px">fun fact</samp> The answer to life, the universe, and everything is <a href="https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802">42</a>.</li>
-    <li>📖 <samp style="font-family: 'Roboto Mono', monospace; font-size: 15px">key subject interests</samp> in 🤖Machine Learning/AI endeavors and 🗣️NLP research work.</li>
+    <li>💬 <samp>about me,</samp> I like to watch Sakuga AMVs, but can't complete shows.</li>
+    <li>⚡ <samp>fun fact</samp> The answer to life, the universe, and everything is <a href="https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802">42</a>.</li>
+    <li>📖 <samp>key subject interests</samp> in 🤖Machine Learning/AI endeavors and 🗣️NLP research work.</li>
   </ul>
 
-  <blockquote style="font-family: 'Roboto Mono', monospace; font-size: 12px">I truly believe in the spirit of Open-Source❤️, and as such, resolve to double my PR and contribution goals this year.</blockquote>
+  <blockquote><span>I truly believe in the spirit of Open-Source❤️, and as such, resolve to double my PR and contribution goals this year.</span></blockquote>
 </div>
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Technical Proficiency
