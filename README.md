@@ -1,15 +1,14 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap" rel="stylesheet">
-<html>
-  <style>
+
+<style>
     samp { 
       font-family: 'Roboto Mono';
       font-weight: 500;
       font-size: 15px;
     }
-    </style>
-</html>
+</style>
 
 <h1>
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="40px">
