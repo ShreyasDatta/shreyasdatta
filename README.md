@@ -14,7 +14,7 @@ If you find that infuriating and would want to send some choice words my way, Le
   <a href="https://twitter.com/FirePhoenix837" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
-  <a href = "mailto:yasdatta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:yasdatta@gmail.com"><img src="https://dcbadge.vercel.app/api/shield/309628745323511808?logoColor=presence" target="_blank"></a>
   <a href="https://www.linkedin.com/in/shreyas-datta-32bb041a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" target="_blank"></a> 
 </div>
 

@@ -18,6 +18,12 @@ If you find that infuriating and would want to send some choice words my way, Le
   <a href="https://www.linkedin.com/in/shreyas-datta-32bb041a1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=0A66C2" target="_blank"></a> 
 </div>
 
+<h1 align="center">
+  <img alt="banner" src="assets/header.jpg" />
+
+  𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜<img src="assets/gifs/Earth.gif" width="24px">/>! <img src="assets/gifs/Hi.gif" width="30px">
+</h1>
+
 <br> 
 <img align='right' src="https://imgur.com/a/odU8plu" width="250" height="210">
 
@@ -27,14 +33,9 @@ If you find that infuriating and would want to send some choice words my way, Le
 - 📖 key subject interests in 🤖Machine Learning/AI endeavors and 🗣️NLP research work.
 -  Show some ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg" alt="visitor badge"/></p>
+
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> Technical Proficiency
 <p style="display: inline-block;" align="center">
   <kbd>
