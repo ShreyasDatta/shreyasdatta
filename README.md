@@ -2,12 +2,12 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@500&display=swap" rel="stylesheet">
 <style>
-samp { 
-  font-family: 'Roboto Mono';
-  font-weight: 500;
-  font-size: 15px;
-}
-</style>
+  samp { 
+    font-family: 'Roboto Mono';
+    font-weight: 500;
+    font-size: 15px;
+  }
+  </style>
 <h1>
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="40px">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=500&color=DA5581&vCenter=true&width=200&height=45&lines=Hi;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87;%EC%95%88%EB%85%95;ol%C3%A1;Bonjour;Hallo;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5" alt="Typing SVG" /></a>
